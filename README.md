@@ -48,5 +48,5 @@ The database schema consists of several tables, relationships, and constraints t
 - Introduce caching for frequently accessed data.
 - Enhance security with role-based access control.
 
-For further details, refer to the `README.md` file in the project repository.
+
 
