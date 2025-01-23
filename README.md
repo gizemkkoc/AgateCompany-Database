@@ -1,4 +1,4 @@
-AgateCompany Database
+### AgateCompany Database
 
 AgateCompany is a backend system designed to manage various aspects of an advertising agency's operations, including clients, staff, campaigns, and advertisements. The database plays a crucial role in storing and managing all relevant data efficiently. It has been designed with PostgreSQL to ensure scalability, performance, and data integrity.
 
